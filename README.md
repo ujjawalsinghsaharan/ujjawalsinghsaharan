@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ujjawalsinghsaharan
+- 👋 Hi, I’m ujjawal Singh Saharan
 - 👀 I’m interested in coding, networking,GSOC, Cloud computing, cyber security
 - 🌱 I’m currently learning computer science and engineering
 - 💞️ I’m looking to collaborate on GSOC,& with other coders
